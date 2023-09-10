@@ -7,3 +7,4 @@ mkdir examples
 ./scripts/create_example_3.sh
 ./scripts/create_example_4.sh
 ./scripts/create_example_5.sh
+./scripts/create_example_7.sh
