@@ -21,8 +21,8 @@ to create a narrative which makes it easier for the reviewer, and
 also creates a good history in the repository.
 
 In this example there are two branches, main and fix_bugs, your
-task is to rebase fix_bugs onto main, but change the order of the
-commits."
+task is to rebase the branch on it self and change the order of the
+commits. Then we can rebase it on main and make it ready."
 
 git commit -m "$commit_msg"
 
