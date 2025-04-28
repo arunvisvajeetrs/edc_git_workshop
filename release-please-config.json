@@ -1,12 +1,8 @@
 {
   "packages": {
-    ".": {
+    "jobs": {
       "release-type": "python",
-      "include-v-in-tag": false,
-      "version-file": {
-        "path": "jobs/__init__.py",
-        "regex": "__version__ = \"(.*?)\""
-      }
+      "include-v-in-tag": false
     }
   }
 }
