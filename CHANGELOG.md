@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/arunvisvajeetrs/edc_git_workshop/compare/1.3.0...1.3.1) (2025-04-28)
+
+
+### Bug Fixes
+
+* more readme ([801c0b6](https://github.com/arunvisvajeetrs/edc_git_workshop/commit/801c0b65c4fa0d822a158e4b8a1b1dc8adb5afcf))
+
 ## [1.3.0](https://github.com/arunvisvajeetrs/edc_git_workshop/compare/1.2.0...1.3.0) (2025-04-28)
 
 
