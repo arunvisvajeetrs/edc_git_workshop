@@ -1,0 +1,19 @@
+name: 🔖 Release
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Release with release please
+        uses: googleapis/release-please-action@v4.2.0
+        id: release
