@@ -1,6 +1,6 @@
 {
   "packages": {
-    "jobs": {
+    ".": {
       "release-type": "python",
       "include-v-in-tag": false
     }
