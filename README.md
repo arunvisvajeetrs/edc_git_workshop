@@ -1,5 +1,5 @@
 # Release-please Python
-Testing release-please python.
+Testing release-please python. Also testing the Actions permissions.
 
 # Git unleashed 🚀
 
